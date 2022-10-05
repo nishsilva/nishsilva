@@ -1,11 +1,35 @@
 ---
-title: "nishsilva"
+title: "Nish Etige"
+subtitle: "Nishchitha Sandeepana Silva Etige"
+image: headshot.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/nishchitha-etige-22713425/
+    - text: Scholar
+      href: https://scholar.google.com/citations?user=0IW8468AAAAJ&hl=en
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/nishetige
+    - text: GitHub
+      href: https://github.com/nishsilva
+    - text: Email
+      href: mailto:nishetige@gmail.com
 ---
 
-This is a Quarto website.
+# Hello there!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Welcome to my personal website!**
 
-```{r}
-1 + 1
-```
+I am a Doctoral Candidate at the Department of Earth & Environment of Boston University.
+
+------------------------------------------------------------------------
+
+### Education
+
+------------------------------------------------------------------------
+
+### Experience
