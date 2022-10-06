@@ -7,29 +7,31 @@ about:
   image-shape: rounded
   image-width: 15em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/nishchitha-etige-22713425/
-    - text: Scholar
+    - icon: google
+      text: Scholar
       href: https://scholar.google.com/citations?user=0IW8468AAAAJ&hl=en
     - icon: twitter
       text: Twitter
       href: https://twitter.com/nishetige
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/nishsilva
-    - text: Email
+    - icon: mail
+      text: Email
       href: mailto:nishetige@gmail.com
 ---
 
-# Hello there!
+# Hello there, welcome!
 
-**Welcome to my personal website!**
-
-I am a Doctoral Candidate at the Department of Earth & Environment of Boston University.
+I am a Doctoral Candidate in Earth & Environment at Boston University. I investigate large-scale ocean atmosphere interactions pertaining to Kuroshio Extension variations and their linkages with marine heatwaves, advised by Prof. Bruce Anderson.
 
 ------------------------------------------------------------------------
 
 ### Education
 
-------------------------------------------------------------------------
+**MS in Marine Science & Technology** (2019) \| University of Massachusetts Dartmouth's School for Marine Science & Technology \| New Bedfors, MA
 
-### Experience
+**BS in Aquatic Resources Technology** (2015) \| Uva Wellassa University of Sri Lanka
