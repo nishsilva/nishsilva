@@ -2,15 +2,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Who am I?",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "My story starts in Sri Lanka, a small island nation in the Indian Ocean. Born and bred in this small island for more than two decades, I studied aquatic science initially. While studying aquatic science in college, I wanted to study ocean and know more about climate change. After working for couple of years in two organizations (International Water Management Institute & International Union for Conservation of Nature) Sri Lanka I ended up pursuing a Master’s degree in the United States at School for Marine Science of UMass Dartmouth in Professor Avijit Gangopadhyay’s Lab. After completing my MS I joined the Department of Earth & Environment of Boston University to pursue a Ph.D. under the advisement of Professor Bruce Anderson. Currently, I am in Boston doing my dissertation research while enjoying this beautiful city also hiking in New Hampshire time to time."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Nish Etige",
     "section": "",
-    "text": "I am a Doctoral Candidate in Earth & Environment at Boston University. I investigate large-scale ocean atmosphere interactions pertaining to Kuroshio Extension variations and their linkages with marine heatwaves, advised by Prof. Bruce Anderson.\n\n\n\nMS in Marine Science & Technology (2019) | University of Massachusetts Dartmouth’s School for Marine Science & Technology | New Bedfors, MA\nBS in Aquatic Resources Technology (2015) | Uva Wellassa University of Sri Lanka"
+    "text": "I am a Doctoral Candidate at Department of Earth & Environment at Boston University.\n\nI investigate large-scale ocean atmosphere interactions associated to Kuroshio Extension variations and their linkages with marine heatwaves, advised by Prof. Bruce Anderson.\n\nIn this personal website you can learn a lot about myself. From where I come from, what kind of research I do, what my research interests are, and many more…\n\n\n\nMS in Marine Science & Technology (2019)\nUniversity of Massachusetts Dartmouth’s School for Marine Science & Technology | New Bedford, MA\nBS in Aquatic Resources Technology (2015)\nUva Wellassa University | Sri Lanka"
+  },
+  {
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "References\n\nGangopadhyay, Avijit, Glen Gawarkiewicz, E. Nishchitha S. Silva, M. Monim, and Jenifer Clark. 2019. “An Observed Regime Shift in the Formation of Warm Core Rings from the Gulf Stream.” Scientific Reports 9 (1): 12319. https://doi.org/10.1038/s41598-019-48661-9.\n\n\nGangopadhyay, Avijit, Glen Gawarkiewicz, E. Nishchitha S. Silva, Adrienne M. Silver, M. Monim, and Jenifer Clark. 2020. “A Census of the Warm-Core Rings of the Gulf Stream: 19802017.” Journal of Geophysical Research: Oceans 125 (8): e2019JC016033. https://doi.org/10.1029/2019JC016033.\n\n\nSilva, E. Nishchitha S., Avijit Gangopadhyay, Gavin Fay, Manushi K. V. Welandawe, Glen Gawarkiewicz, Adrienne M. Silver, Mahmud Monim, and Jenifer Clark. 2020. “A Survival Analysis of the Gulf Stream Warm Core Rings.” Journal of Geophysical Research: Oceans 125 (10): e2020JC016507. https://doi.org/10.1029/2020JC016507.\n\n\nSilver, Adrienne, Avijit Gangopadhyay, Glen Gawarkiewicz, E. Nishchitha S. Silva, and Jenifer Clark. 2021. “Interannual and Seasonal Asymmetries in Gulf Stream Ring Formations from 1980 to 2019.” Scientific Reports 11 (1): 2207. https://doi.org/10.1038/s41598-021-81827-y."
   }
 ]

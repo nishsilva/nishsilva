@@ -1,0 +1,9 @@
+---
+title: "Publications"
+editor: visual
+bibliography: references.bib
+nocite: |
+  @item1
+---
+
+[@gangopadhyay2019][@gangopadhyay2020a][@silva2020b][@silver2021]

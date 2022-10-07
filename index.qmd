@@ -1,12 +1,14 @@
 ---
 title: "Nish Etige"
-subtitle: "Nishchitha Sandeepana Silva Etige"
+subtitle: "Nishchitha Sandeepana Silva Etige (he/him)"
 image: headshot.jpg
 about: 
   template: trestles
   image-shape: rounded
   image-width: 15em
   links:
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Etige-Nishchitha-Sandeepana-Silva-2
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/nishchitha-etige-22713425/
@@ -26,12 +28,20 @@ about:
 
 # Hello there, welcome!
 
-I am a Doctoral Candidate in Earth & Environment at Boston University. I investigate large-scale ocean atmosphere interactions pertaining to Kuroshio Extension variations and their linkages with marine heatwaves, advised by Prof. Bruce Anderson.
+I am a Doctoral Candidate at **Department of Earth & Environment** at **Boston University**.\
+\
+I investigate **large-scale ocean atmosphere interactions associated to Kuroshio Extension variations and their linkages with marine heatwaves**, advised by Prof. Bruce Anderson.\
+\
+In this personal website you can learn a lot about myself. From where I come from, what kind of research I do, what my research interests are, and many more...
 
 ------------------------------------------------------------------------
 
 ### Education
 
-**MS in Marine Science & Technology** (2019) \| University of Massachusetts Dartmouth's School for Marine Science & Technology \| New Bedfors, MA
+**MS in Marine Science & Technology** (2019)
 
-**BS in Aquatic Resources Technology** (2015) \| Uva Wellassa University of Sri Lanka
+University of Massachusetts Dartmouth's School for Marine Science & Technology \| New Bedford, MA
+
+**BS in Aquatic Resources Technology** (2015)
+
+Uva Wellassa University \| Sri Lanka
