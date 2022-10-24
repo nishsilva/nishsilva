@@ -1,9 +1,54 @@
 ---
 title: "Publications"
 editor: visual
-bibliography: references.bib
-nocite: |
-  @item1
 ---
 
-[@gangopadhyay2019][@gangopadhyay2020a][@silva2020b][@silver2021]
+## Preprints
+
+-   **E.N.S. Silva**, Bruce T Anderson. **Influence of Kuroshio Extension Variability on the North Pacific Atmosphere and Pacific Decadal Precession**, 21 March 2022, PREPRINT (Version 1) available at Research Square \[<https://doi.org/10.21203/rs.3.rs-1451566/v1>\]
+
+## Journal Articles
+
+-   Silver, A., Gangopadhyay, A., Gawarkiewicz, G., **Silva, E.N.S.** and Clark, J. 2021. **Interannual and seasonal asymmetries in Gulf Stream Ring Formations from 1980 to 2019.** Scientific Reports, 11(1), pp.1-7. <https://doi.org/10.1038/s41598-021-81827-y>
+
+-   **Silva, E.N.S.**, A. Gangopadhyay, G. Fay, A., M. Welandawe, G. Gawarkiewicz, A. M. Silver, and J. Clark, 2020: **A survival analysis of the warm core rings of the Gulf Stream** Journal of Geophysical Research: Oceans, 125(10), p.e2020JC016507. <https://doi.org/10.1029/2020JC016507>
+
+-   Gangopadhyay, A., Gawarkiewicz, G., **Silva, E. N. S.,** Silver, A. M., Monim, M., & Clark, J. 2020. **A census of the warm‐core rings of the Gulf Stream: 1980--2017.** Journal of Geophysical Research: Oceans, 125, e2019JC016033. <https://doi.org/10.1029/2019JC016033>
+
+-   Gangopadhyay, A., Gawarkiewicz, G., **Silva, E. N. S.**, Monim, M., & Clark, J. 2019. **An observed regime shift in the formation of Warm core rings from the Gulf Stream**. Scientific Reports, 9(1). [doi:10.1038/s41598-019-48661-9](https://doi.org/10.1038/s41598-019-48661-9)
+
+-   Muthuwatta L., Sood A., McCartney M., **Silva E.N.S.**, Opere A. 2018. **Understanding the impacts of climate change in the Tana river basin, Kenya**. Proc IAHS 379:37-42. <https://doi.org/10.5194/piahs-379-37-2018>
+
+-   SIlva E.I.L. and **Silva E.N.S.** 2017. **Mini-hydro, an injurious novel threat to highland forest ecosystems of Sri Lanka**. The Sri Lanka Forester 38:67-73.
+
+-   Silva E.I.L., Manthrithilake H., Pitigala D., **Silva E.N.S**. 2014. **Environmental flow in Sri Lanka: Ancient anicuts versus modern dams**. Sri Lanka Journal of Aquatic Sciences 19:3-14. doi: 10.4038/sljas.v19i0.7447
+
+-   Silva E.I.L., Rott E., Thumpela I., Athukorala N., **Silva E.N.S**. 2013. **Species composition and relative dominance of reservoir phytoplankton in sri lanka: Indicators of environmental quality**. International Journal of Biological Science and Engineering 4(4):92-102.
+
+## Books
+
+-   Silva E.I.L. and **Silva E.N.S.** 2016. **Handbook on small hydropower development and environment: A case study on Sri Lanka**. 1st ed. Colombo, Sri Lanka: Water Resources Science and Technology.
+
+## Reports
+
+-   Sood A., Muthuwatta L., **Silva N.S.**, McCartney M. 2017. **Understanding the hydrological impacts of climate change in the Tana river basin, Kenya**. Colombo Sri Lanka: International Water Management Institute (IWMI). Report IWMI Working Paper 178. 40 p.
+
+## Conference Proceedings
+
+-   **Silva, E.N.S.** & Anderson, B.T. 2022, March. **Influence of Kuroshio Extension Variations on the Formation of Marine Heatwaves in the Gulf of Alaska** in Ocean Science Meeting 2022. AGU.
+
+-   **Etige, N.S.** & Anderson, B. 2020, February. **What Scale of Kuroshio Extension Variability Influences the Downstream Atmosphere that Links with the Pacific Decadal Precession?** in AGU Fall Meeting 2021. AGU.
+
+-   Silver, A., Gangopadhyay, A., **Etige, N.S.,** Gawarkiewicz, G., Bisagni, J.J., Monim, M. and Clark, J., 2020, February. **A Census of Gulf Stream Warm and Cold Core Rings (1980-2017).** in Ocean Sciences Meeting 2020. AGU.
+
+-   **Silva E.N.S.**, Rajasuriya A. and Sosai S. 2017. **Testing attitudes of fishers towards conservation; a snapshot**. Proceedings of third national symposium on marine environment; 10/17/2017; Colombo, Sri Lanka. Sri Lanka: Marine Environment Protection Authority, Sri Lanka. 37-38 p.
+
+-   **Silva E.N.S.**, Liyanage N.P.P. and Jayamanne S.C. 2016. **Possible effects of climate change driven sea level rise on small islet complex of Negombo lagoon sea entrance with respect to mangrove floral community and fisheries**. Proceedings of 6th research symposium of Uva Wellassa University - Towards emerging trends in value addition; 01/28/2016 - 01/28/2016; Uva Wellassa University. Sri Lanka: Uva Wellassa University. 131 p.
+
+-   **Silva E.N.S.**, Liyanage N.P.P., Jayamanne S.C. and Silva E.I.L. 2016. **The fate of Negombo lagoon sea entrance in the face of climate change driven sea-level rise.** International workshop on climate change and anthropogenic activities: Impact on coastal development and management; 10/28/2016-10/29/016; Colombo, Sri Lanka. Sri Lanka: University of Colombo. 61-63 p.
+
+-   SIlva E.I.L. and **Silva E.N.S.** 2016. **Mini-hydro, an injurious novel threat to highland forest ecosystems of Sri Lanka**. Proceedings of international research symposium on valuation of forest ecosystems and their services; 10/18/2016; Colombo, Sri Lanka. Sri Lanka: UN-REDD. 47 p.
+
+-   Silva E.I.L., Jayawardhana R.A.S.N., **Silva E.N.S.** and Liyanage N.P.P. 2016. **The effects of escalating small hydropower development on hill stream fish fauna endemic to Sri Lanka**. Asia 2016 - International conference on water resources and hydropower development in Asia; 03/01/2016-03/03/206; Vientiane, Laos.
+
+-   Silva E.I.L., Jayawardhana R.A.S.N., Liyanage N.P.P. and **Silva E.N.S**. 2015. **Effects of construction and operation of mini hydropower plants on fish fauna endemic to Sri Lanka - A case study on Kelani river basin**. Symposium proceedings of the water professionals' day - Water resources research in Sri Lanka; 10/01/2015; Post Graduate Institute of Agriculture, University of Peradeniya. Sri Lanka: Geo-Informatics Society of Sri Lanka. 45-55 p.
