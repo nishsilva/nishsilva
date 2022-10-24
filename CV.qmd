@@ -1,6 +1,7 @@
 ---
 title: "CV"
 editor: visual
+title-block-banner: false
 ---
 
 ```{=html}
@@ -12,11 +13,11 @@ editor: visual
 </head>
   
 <body>
-    <center>
+    <left>
         <embed src="Nish_CV.pdf"
         width="1200" 
                 height="800">
-    </center>
+    </left>
 </body>
 </html>
 ```
