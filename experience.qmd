@@ -1,6 +1,6 @@
 ---
-title: "Experience"
+title: <strong>My Career Path
 editor: visual
 ---
 
-![My career path.](Nish_path.jpg)
+![](Nish_path.jpg)
