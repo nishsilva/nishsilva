@@ -3,4 +3,6 @@ title: <strong>My Career Path
 editor: visual
 ---
 
+::: column-screen
 ![](Nish_path.jpg)
+:::
