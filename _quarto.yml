@@ -11,6 +11,7 @@ website:
       - about.qmd
       - experience.qmd
       - pubs.qmd
+      - CV.qmd
 
 format:
   html:
