@@ -1,7 +1,6 @@
 ---
 title: "CV"
 editor: visual
-title-block-banner: false
 ---
 
 ```{=html}
