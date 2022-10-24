@@ -13,15 +13,10 @@ editor: visual
   
 <body>
     <center>
-        <h1 style="color: green">GeeksforGeeks</h1>
-        <h3>Embedding the PDF file Using Object Tag</h3>
-        <object data=
-"https://nishsilva.github.io/nishsilva/Nish_CV.pdf" 
-                width="800" 
-                height="500"> 
-        </object>
+        <embed src="Nish_CV.pdf"
+        width="1200" 
+                height="800">
     </center>
 </body>
-  
 </html>
 ```
