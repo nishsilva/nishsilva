@@ -13,7 +13,7 @@ editor: visual
 <body>
     <left>
         <embed src="Nish_CV.pdf"
-        width="1200" 
+        width="100%" 
                 height="800">
     </left>
 </body>
