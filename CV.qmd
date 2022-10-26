@@ -3,7 +3,7 @@ editor: visual
 ---
 
 ```{=html}
-<iframe src="https://docs.google.com/document/d/1daaY5VnOpNxlATyFYLp-RUkJ8BHc20pAA5Pi4xEQ-iU/edit?usp=sharing" frameborder="0" height="1030px" width="100%" scrolling="yes"></iframe>
+<a href="Nish_CV.pdf" download="proposed_file_name">Download</a>
 ```
 ```{=html}
 <!DOCTYPE html>
@@ -21,11 +21,4 @@ editor: visual
     </left>
 </body>
 </html>
-```
-```{=html}
-<object data="Nish_CV.pdf" type="application/pdf" width="100%" height="800">
-  <p>Your web browser doesn't have a PDF plugin.
-  Instead you can <a href="filename.pdf">click here to
-  download the PDF file.</a></p>
-</object>
 ```
