@@ -3,7 +3,7 @@ editor: visual
 ---
 
 ```{=html}
-<a href="Nish_CV.pdf" download="proposed_file_name">Download</a>
+<a href="Nish_CV.pdf" download="CV_Nish_Etige">Download</a>
 ```
 ```{=html}
 <!DOCTYPE html>
