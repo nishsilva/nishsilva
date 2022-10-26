@@ -3,6 +3,9 @@ editor: visual
 ---
 
 ```{=html}
+<iframe src="Nish_CV.pdf" frameborder="0" height="1030px" width="100%"></iframe>
+```
+```{=html}
 <!DOCTYPE html>
 <html>
   
