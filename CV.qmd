@@ -3,7 +3,7 @@ editor: visual
 ---
 
 ```{=html}
-<iframe src="Nish_CV.pdf" frameborder="0" height="1030px" width="100%"></iframe>
+<iframe src="Nish_CV.pdf" frameborder="0" height="1030px" width="100%" scrolling="yes"></iframe>
 ```
 ```{=html}
 <!DOCTYPE html>
