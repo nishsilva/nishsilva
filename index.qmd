@@ -1,7 +1,7 @@
 ---
 title: "Nish Etige"
 subtitle: "Nishchitha Sandeepana Silva Etige (he/him)"
-image: headshot.jpg
+image: headshot2.jpg
 about: 
   template: trestles
   image-shape: rounded
