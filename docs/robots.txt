@@ -1,1 +1,1 @@
-Sitemap: https://cheery-malasada-378480.netlify.app/sitemap.xml
+Sitemap: https://nishsilva.github.io/nishsilva/sitemap.xml
