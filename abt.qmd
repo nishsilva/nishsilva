@@ -23,5 +23,5 @@ After completing my MS I joined the Department of Earth & Environment of Boston 
 <b><font size="+2">My Career Path</font></b>
 
 ::: column-screen
-![](Nish_path.jpg)
+![](Career_Path.jpg)
 :::
