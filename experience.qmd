@@ -4,16 +4,26 @@ As my doctoral dissertation research I, have been working on how Kuroshio Extens
 
 ### Gulf Stream Warm Core Rings - Shifts, Variability, and Survival
 
-tbw
+Investigated the long-term variability of Gulf Stream\'s Warm Core Rings. Developed a Survival model to investigate the survival of the Gulf Stream\'s Warm Core Rings. Conducted analysis on long-term regime shifts in Gulf Stream\'s Warm Core Ring formations. Conducted a georeferenced census for Gulf Stream\'s Warm Core Rings.
 
 ### Dugong and Seagrass Conservation in the Gulf of Mannar
 
-tbw
+Affiliated with Dugong and Seagrass Conservation cross-national project.
+
+Developed and supplied inputs for the determination of a new marine protected area (MPA) in the Gulf of Mannar, Indian Ocean.
+
+Conducted a survey to test the attitude of fishing communities for the conservation of Dugong and Seagrass in Gulf of Mannar and Palk Bay, Indian Ocean.
 
 ### Multi Purpose Water Infrasturcture Management in Central Asia
 
-### 
+Developed a repository of muti-purpose water infrastructure case studies to utilize as an input for a policy model established for the management of reservoirs in Kazakhstan.
 
-text
+### Water Resources Management in South Asia and Africa
 
-### Water Resources Science & Technology
+Analyzed hydrological data for ten different climate change scenarios produced as a SWAT model output to understand the hydrological impacts of climate change in the Tana River basin, Kenya.
+
+Studied the potential of utilizing groundwater and surface water conjunctively for irrigation in an agricultural development scheme in North-Central Sri Lanka.
+
+Processed a geo-coded agro-well database to calculate potential cropping intensities for an agricultural development scheme in North-Central Sri Lanka.
+
+Contributed to a case study on small-scale hydropower generation and its implications on mountain streams in Sri Lanka
