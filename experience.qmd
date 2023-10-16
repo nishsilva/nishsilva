@@ -4,7 +4,7 @@ As my doctoral dissertation research I, have been working on how Kuroshio Extens
 
 ### Gulf Stream Warm Core Rings - Shifts, Variability, and Survival
 
-Investigated the long-term variability of Gulf Stream\'s Warm Core Rings. Developed a Survival model to investigate the survival of the Gulf Stream\'s Warm Core Rings. Conducted analysis on long-term regime shifts in Gulf Stream\'s Warm Core Ring formations. Conducted a georeferenced census for Gulf Stream\'s Warm Core Rings.
+Investigated the long-term variability of Gulf Stream's Warm Core Rings. Developed a Survival model to investigate the survival of the Gulf Stream's Warm Core Rings. Conducted analysis on long-term regime shifts in Gulf Stream's Warm Core Ring formations. Conducted a georeferenced census for Gulf Stream's Warm Core Rings.
 
 ### Dugong and Seagrass Conservation in the Gulf of Mannar
 

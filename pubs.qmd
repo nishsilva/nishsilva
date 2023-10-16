@@ -4,27 +4,27 @@ editor: visual
 
 ## Preprints
 
--   E. N.S. Silva, B. T. Anderson. **A Link between The Kuroshio Extension, Marine Heatwaves, and Marine Ecosystems in the Gulf of Alaska**, 02 March 2023, PREPRINT (Version 1) available at Research Square \[<https://doi.org/10.21203/rs.3.rs-2595325/v1>\]
-
 -   **E.N.S. Silva**, Bruce T Anderson. **Influence of Kuroshio Extension Variability on the North Pacific Atmosphere and Pacific Decadal Precession**, 21 March 2022, PREPRINT (Version 1) available at Research Square \[<https://doi.org/10.21203/rs.3.rs-1451566/v1>\]
 
 ## Journal Articles
 
--   Silver, A., Gangopadhyay, A., Gawarkiewicz, G., **Silva, E.N.S.** and Clark, J. 2021. **Interannual and seasonal asymmetries in Gulf Stream Ring Formations from 1980 to 2019.** Scientific Reports, 11(1), pp.1-7. <https://doi.org/10.1038/s41598-021-81827-y>
+-   **Silva, E.N.S**., Anderson, B.T. 2023. **Northeast Pacific marine heatwaves linked to Kuroshio Extension variability.** *Commun Earth Environ* 4, 367. <https://doi.org/10.1038/s43247-023-01010-1>
 
--   **Silva, E.N.S.**, A. Gangopadhyay, G. Fay, A., M. Welandawe, G. Gawarkiewicz, A. M. Silver, and J. Clark, 2020: **A survival analysis of the warm core rings of the Gulf Stream** Journal of Geophysical Research: Oceans, 125(10), p.e2020JC016507. <https://doi.org/10.1029/2020JC016507>
+-   Silver, A., Gangopadhyay, A., Gawarkiewicz, G., **Silva, E.N.S.** and Clark, J. 2021. **Interannual and seasonal asymmetries in Gulf Stream Ring Formations from 1980 to 2019.** *Scientific Reports*, 11(1), pp.1-7. <https://doi.org/10.1038/s41598-021-81827-y>
 
--   Gangopadhyay, A., Gawarkiewicz, G., **Silva, E. N. S.,** Silver, A. M., Monim, M., & Clark, J. 2020. **A census of the warm‐core rings of the Gulf Stream: 1980--2017.** Journal of Geophysical Research: Oceans, 125, e2019JC016033. <https://doi.org/10.1029/2019JC016033>
+-   **Silva, E.N.S.**, A. Gangopadhyay, G. Fay, A., M. Welandawe, G. Gawarkiewicz, A. M. Silver, and J. Clark, 2020: **A survival analysis of the warm core rings of the Gulf Stream** *Journal of Geophysical Research: Oceans*, 125(10), p.e2020JC016507. <https://doi.org/10.1029/2020JC016507>
 
--   Gangopadhyay, A., Gawarkiewicz, G., **Silva, E. N. S.**, Monim, M., & Clark, J. 2019. **An observed regime shift in the formation of Warm core rings from the Gulf Stream**. Scientific Reports, 9(1). [doi:10.1038/s41598-019-48661-9](https://doi.org/10.1038/s41598-019-48661-9)
+-   Gangopadhyay, A., Gawarkiewicz, G., **Silva, E. N. S.,** Silver, A. M., Monim, M., & Clark, J. 2020. **A census of the warm‐core rings of the Gulf Stream: 1980--2017.** *Journal of Geophysical Research: Oceans*, 125, e2019JC016033. <https://doi.org/10.1029/2019JC016033>
 
--   Muthuwatta L., Sood A., McCartney M., **Silva E.N.S.**, Opere A. 2018. **Understanding the impacts of climate change in the Tana river basin, Kenya**. Proc IAHS 379:37-42. <https://doi.org/10.5194/piahs-379-37-2018>
+-   Gangopadhyay, A., Gawarkiewicz, G., **Silva, E. N. S.**, Monim, M., & Clark, J. 2019. **An observed regime shift in the formation of Warm core rings from the Gulf Stream**. *Scientific Reports*, 9(1). [doi:10.1038/s41598-019-48661-9](https://doi.org/10.1038/s41598-019-48661-9)
 
--   SIlva E.I.L. and **Silva E.N.S.** 2017. **Mini-hydro, an injurious novel threat to highland forest ecosystems of Sri Lanka**. The Sri Lanka Forester 38:67-73.
+-   Muthuwatta L., Sood A., McCartney M., **Silva E.N.S.**, Opere A. 2018. **Understanding the impacts of climate change in the Tana river basin, Kenya**. *Proc IAHS,* 379:37-42. <https://doi.org/10.5194/piahs-379-37-2018>
 
--   Silva E.I.L., Manthrithilake H., Pitigala D., **Silva E.N.S**. 2014. **Environmental flow in Sri Lanka: Ancient anicuts versus modern dams**. Sri Lanka Journal of Aquatic Sciences 19:3-14. doi: 10.4038/sljas.v19i0.7447
+-   SIlva E.I.L. and **Silva E.N.S.** 2017. **Mini-hydro, an injurious novel threat to highland forest ecosystems of Sri Lanka**. *The Sri Lanka Forester,* 38:67-73.
 
--   Silva E.I.L., Rott E., Thumpela I., Athukorala N., **Silva E.N.S**. 2013. **Species composition and relative dominance of reservoir phytoplankton in sri lanka: Indicators of environmental quality**. International Journal of Biological Science and Engineering 4(4):92-102.
+-   Silva E.I.L., Manthrithilake H., Pitigala D., **Silva E.N.S**. 2014. **Environmental flow in Sri Lanka: Ancient anicuts versus modern dams**. *Sri Lanka Journal of Aquatic Sciences,* 19:3-14. doi: 10.4038/sljas.v19i0.7447
+
+-   Silva E.I.L., Rott E., Thumpela I., Athukorala N., **Silva E.N.S**. 2013. **Species composition and relative dominance of reservoir phytoplankton in sri lanka: Indicators of environmental quality**. I*nternational Journal of Biological Science and Engineering,* 4(4):92-102.
 
 ## Books
 
