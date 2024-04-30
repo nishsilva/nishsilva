@@ -28,17 +28,25 @@ about:
 
 # **Hello there, Welcome!**
 
-I am a Doctoral Candidate at **Department of Earth & Environment** at **Boston University**.\
+I am a Senior Research Associate in the *Oceanography Group* at **Atmospheric & Environmental Research Inc.**
+
+I recently completed my Ph.D. at **Department of Earth & Environment** at **Boston University**.\
 \
-I investigate **large-scale ocean atmosphere interactions associated with Kuroshio Extension variations and their linkages with marine heatwaves**, advised by [**Prof. Bruce Anderson**](https://www.bu.edu/earth/profiles/bruce-anderson/).\
+Where I investigated **large-scale ocean atmosphere interactions associated with Kuroshio Extension variations and their linkages with marine heatwaves**, advised by [**Prof. Bruce Anderson**](https://www.bu.edu/earth/profiles/bruce-anderson/).\
 
 ### **Recent Highlights**
 
-#### Fall 23'
+**Spring 24'**
+
+[Defended my Doctoral Dissertation](https://www.bu.edu/earth/2024/03/29/congratulations-to-dr-nishchitha-etige-on-your-successfully-completing-your-ph-d-defense/) titled ***"Influence of the Kuroshio Extension on the Pacific Decadal Precession and Marine Environment in the Northeast Pacific"*** on March 28th, 2024
+
+**Fall 23'**
+
+Joined [**AER Inc.**](aer.com) as a **Senior Research Associate** in the Oceanography Group.
 
 Check out our [**newly published article**](https://www.nature.com/articles/s43247-023-01010-1) in ***Communications Earth & Environment***.
 
-#### Summer 23'
+**Summer 23'**
 
 I was an **Earth System Science Intern (NESSI)** at **National Center for Atmospheric Research (NCAR)**.
 
@@ -47,6 +55,10 @@ I was an **Earth System Science Intern (NESSI)** at **National Center for Atmosp
 ------------------------------------------------------------------------
 
 ### Education
+
+**PhD in Earth & Environment** (2024)
+
+Boston University Graduate School of Arts & Sciences
 
 **MS in Marine Science & Technology** (2019)
 
