@@ -1,7 +1,3 @@
----
-editor: visual
----
-
 **Summer 23'**
 
 I was an **Earth System Science Intern (NESSI)** at **National Center for Atmospheric Research (NCAR)**.
