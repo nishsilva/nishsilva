@@ -11,11 +11,13 @@ website:
       - href: abt.qmd
         text: About Me
       - href: experience.qmd
-        text: Research Highlights
+        text: Research
       - href: pubs.qmd
         text: Publications
       - href: CV.qmd
         text: CV
+      - href: highlights.qmd
+        text: Past Highlights
         
 format:
   html:
