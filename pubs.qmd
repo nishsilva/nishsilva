@@ -2,11 +2,9 @@
 editor: visual
 ---
 
-## Preprints
-
--   **E.N.S. Silva**, Bruce T Anderson. **Influence of Kuroshio Extension Variability on the North Pacific Atmosphere and Pacific Decadal Precession**, 21 March 2022, PREPRINT (Version 1) available at Research Square \[<https://doi.org/10.21203/rs.3.rs-1451566/v1>\]
-
 ## Journal Articles
+
+-   **Silva, E.N.S.**, Anderson, B.T. 2024 **Influence of Kuroshio Extension\'s sea surface temperature variability on the North Pacific atmosphere and Pacific Decadal Precession.** *Clim Dyn* 62, 8947--8960. <https://doi.org/10.1007/s00382-024-07372-2>
 
 -   **Silva, E.N.S**., Anderson, B.T. 2023. **Northeast Pacific marine heatwaves linked to Kuroshio Extension variability.** *Commun Earth Environ* 4, 367. <https://doi.org/10.1038/s43247-023-01010-1>
 
@@ -35,6 +33,14 @@ editor: visual
 -   Sood A., Muthuwatta L., **Silva N.S.**, McCartney M. 2017. **Understanding the hydrological impacts of climate change in the Tana river basin, Kenya**. Colombo Sri Lanka: International Water Management Institute (IWMI). Report IWMI Working Paper 178. 40 p.
 
 ## Conference Proceedings
+
+-   Abeywickrama, T., **Etige, N. S.**, Randombage, A. G., Abeygunawardana, A. P., & Gunathilaka, I. T., 2024, February. **Influence of Indian Ocean Dipole on Coastal Primary Production in Sri Lanka: A 25-Year Analysis** in Ocean Sciences Meeting 2024. AGU.
+
+-   **Etige, N.S.**, Deppenmeier A.L & Anderson, B.T. 2023. **The Relationship between Kuroshio Extension, the Pacific Decadal Precession, and Marine Heatwaves in a High-Resolution Global Climate Model** in Graduate Climate Conference 2023. Marine Biological Laboratory, Woods Hole, MA.
+
+-   **Etige, N.S.**, Deppenmeier A.L & Anderson, B.T. 2023. **Influence of Large-scale Kuroshio Extension Variability on the Pacific Decadal Precession in the High-Resolution Version of the Community Earth System Model** in 2023 NCAR\|UCAR\|UCP Summer Student Poster Research Symposium. National Center for Atmospheric Research, Boulder, CO.
+
+-   **Etige, N.S.** & Anderson, B. 2022, February. **A Link between Kuroshio Extension Variations, Northeast Pacific Marine Heatwaves, and Marine Ecosystems in the Gulf of Alaska** in AGU Fall Meeting 2022. AGU.
 
 -   **Silva, E.N.S.** & Anderson, B.T. 2022, March. **Influence of Kuroshio Extension Variations on the Formation of Marine Heatwaves in the Gulf of Alaska** in Ocean Science Meeting 2022. AGU.
 

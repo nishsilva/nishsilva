@@ -3,7 +3,7 @@ editor: visual
 ---
 
 ```{=html}
-<a href="Nish__011823_CV.pdf" >Download</a>
+<a href="Nish_120824_CV.pdf" >Download</a>
 ```
 ```{=html}
 <!DOCTYPE html>
@@ -15,7 +15,7 @@ editor: visual
   
 <body>
     <left>
-        <embed src="Nish_092523_CV.pdf"
+        <embed src="Nish_120824_CV.pdf"
         width="100%" 
                 height="800">
     </left>

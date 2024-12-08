@@ -1,5 +1,40 @@
-**Summer 23'**
+::: columns
+::: {.column width="60%"}
+### **Summer 23'**
 
 I was an **Earth System Science Intern (NESSI)** at **National Center for Atmospheric Research (NCAR)**.
 
-[**Click here**](https://www.youtube.com/watch?v=UThY3VSY2RI) to watch my **NCAR Talk**
+[**Click here**](https://www.youtube.com/watch?v=UThY3VSY2RI) to watch my **NCAR Talk**.
+
+### **Summer 22'**
+
+Recipient of the [**Warren McLeod Summer Fellowship**](https://www.bu.edu/bump/current-students/warren-mcleod/) by **Boston University Marine Program (BUMP)**.
+
+[**Click here**](https://www.youtube.com/watch?v=UThY3VSY2RI) to watch my **NCAR Talk**.
+
+### **Summer 21'**
+
+Received the **Boston University' Pardee Graduate Fellowship** from **Frederick S. Pardee Center for the Study of the Longer-Range Future**. Read more from below links:
+
+-   [**2021 Pardee Center Graduate Summer Fellows**](https://www.bu.edu/pardee/community/2021-pardee-center-graduate-summer-fellows/)
+-   [**Graduate Summer Fellows Present Research Progress**](https://www.bu.edu/pardee/2021/07/07/graduate-summer-fellows-present-research-progress-at-programs-midpoint/)
+-   [**Pardee Center Concludes 13th Summer Fellow Session**](https://www.bu.edu/pardeeschool/2021/08/09/pardee-center-concludes-13th-graduate-summer-fellow-session/)
+-   [**Graduate Summer Fellow Lightning Talks**](https://www.bu.edu/pardee/2021/09/09/graduate-summer-fellows-to-give-lightning-talks-at-pardee-center-fall-reception/)
+
+### **Summer 19'**
+
+Graduated with a MS in Marine Science and Technology from University of Massachusetts Dartmouth's School for Marine Science and Technology.
+
+[**Read my spotlight by UMassD**](https://www.umassd.edu/feature-stories/2019/nishchitha-silva-19.html).
+:::
+
+::: {.column width="40%"}
+![Summer 23 Image](path/to/image1.png)
+
+![Summer 22 Image](path/to/image2.png)
+
+![Summer 21 Image](path/to/image3.png)
+
+![Summer 19 Image](path/to/image4.png)
+:::
+:::
