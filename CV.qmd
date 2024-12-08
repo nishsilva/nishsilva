@@ -4,12 +4,54 @@ editor: visual
 
 ```{=html}
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>PDF in HTML</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile-Friendly PDF Viewer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        .pdf-container {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 10px;
+        }
+        .pdf-embed {
+            width: 100%;
+            height: 80vh; /* Occupy 80% of the viewport height */
+            border: none;
+        }
+        .download-link {
+            display: block;
+            text-align: center;
+            margin: 15px 0;
+            text-decoration: none;
+            color: white;
+            background-color: #007bff;
+            padding: 10px 15px;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .download-link:hover {
+            background-color: #0056b3;
+        }
+    </style>
 </head>
 <body>
-    <embed src="Nish_120824_CV.pdf" width="100%" height="800">
+    <div class="pdf-container">
+        <!-- Download Button -->
+        <!--<a href="Nish_120824_CV.pdf" download class="download-link">Download PDF</a> -->
+        
+        <!-- PDF Viewer -->
+        <embed src="Nish_120824_CV.pdf" class="pdf-embed">
+    </div>
 </body>
 </html>
+
 ```
