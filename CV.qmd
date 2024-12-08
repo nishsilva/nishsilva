@@ -3,9 +3,7 @@ editor: visual
 ---
 
 ```{=html}
-<a href="Nish_120824_CV.pdf" download="Download">
-        <button type="button">Download</button>
-    </a>
+<a href="Nish_120824_CV.pdf" download>Download</a>
 ```
 ```{=html}
 <!DOCTYPE html>
