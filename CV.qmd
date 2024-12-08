@@ -3,22 +3,13 @@ editor: visual
 ---
 
 ```{=html}
-<a href="Nish_120824_CV.pdf" download>Download</a>
-```
-```{=html}
 <!DOCTYPE html>
 <html>
-  
 <head>
     <title>PDF in HTML</title>
 </head>
-  
 <body>
-    <left>
-        <embed src="Nish_120824_CV.pdf"
-        width="100%" 
-                height="800">
-    </left>
+    <embed src="Nish_120824_CV.pdf" width="100%" height="800">
 </body>
 </html>
 ```
