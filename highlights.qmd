@@ -27,14 +27,4 @@ Graduated with a MS in Marine Science and Technology from University of Massachu
 
 [**Read my spotlight by UMassD**](https://www.umassd.edu/feature-stories/2019/nishchitha-silva-19.html).
 :::
-
-::: {.column width="40%"}
-![Summer 23 Image](path/to/image1.png)
-
-![Summer 22 Image](path/to/image2.png)
-
-![Summer 21 Image](path/to/image3.png)
-
-![Summer 19 Image](path/to/image4.png)
-:::
 :::
