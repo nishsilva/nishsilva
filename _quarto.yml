@@ -16,6 +16,8 @@ website:
         text: Publications
       - href: CV.qmd
         text: CV
+      - href: resume.qmd
+        text: Resume
       - href: highlights.qmd
         text: Past Highlights
         

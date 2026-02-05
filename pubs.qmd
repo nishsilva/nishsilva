@@ -4,7 +4,7 @@ editor: visual
 
 ## Journal Articles
 
--   **Silva, E.N.S.**, Anderson, B.T. 2024 **Influence of Kuroshio Extension\'s sea surface temperature variability on the North Pacific atmosphere and Pacific Decadal Precession.** *Clim Dyn* 62, 8947--8960. <https://doi.org/10.1007/s00382-024-07372-2>
+-   **Silva, E.N.S.**, Anderson, B.T. 2024 **Influence of Kuroshio Extension's sea surface temperature variability on the North Pacific atmosphere and Pacific Decadal Precession.** *Clim Dyn* 62, 8947--8960. <https://doi.org/10.1007/s00382-024-07372-2>
 
 -   **Silva, E.N.S**., Anderson, B.T. 2023. **Northeast Pacific marine heatwaves linked to Kuroshio Extension variability.** *Commun Earth Environ* 4, 367. <https://doi.org/10.1038/s43247-023-01010-1>
 
