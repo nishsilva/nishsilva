@@ -1,1 +1,70 @@
 /* css styles */
+
+.portfolio-hero {
+	margin: 0 0 1.2rem;
+	padding: 1.1rem 1.2rem;
+	border-radius: 14px;
+	background: linear-gradient(120deg, #0b3c5d 0%, #1f7a8c 55%, #8fb996 100%);
+	color: #ffffff;
+	box-shadow: 0 10px 24px rgba(11, 60, 93, 0.2);
+}
+
+.portfolio-hero h2 {
+	margin: 0 0 0.25rem;
+	font-weight: 700;
+}
+
+.portfolio-hero p {
+	margin: 0;
+}
+
+.portfolio-metrics {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 0.8rem;
+	margin: 0 0 1.2rem;
+}
+
+.portfolio-metric {
+	padding: 0.85rem 0.95rem;
+	border-radius: 12px;
+	border: 1px solid #d6e4ec;
+	background: #f7fbfd;
+}
+
+.portfolio-metric strong {
+	display: block;
+	margin: 0 0 0.2rem;
+	color: #0b3c5d;
+}
+
+.portfolio-metric p {
+	margin: 0;
+	color: #3f5969;
+	font-size: 0.95rem;
+}
+
+.portfolio-section {
+	margin: 0 0 1rem;
+	padding: 0.8rem 1rem;
+	border-radius: 12px;
+	border: 1px solid #d7e4ec;
+	background: #ffffff;
+}
+
+.portfolio-section[open] {
+	background: #fcfeff;
+}
+
+.portfolio-section summary {
+	cursor: pointer;
+	color: #0b3c5d;
+	font-size: 1.05rem;
+	margin-bottom: 0.5rem;
+}
+
+@media (max-width: 800px) {
+	.portfolio-metrics {
+		grid-template-columns: 1fr;
+	}
+}

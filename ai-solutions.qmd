@@ -1,0 +1,11 @@
+**Explore selected AI applications through expandable sections.**
+
+<details>
+<summary><strong>AI-Powered WCR Explorer</strong></summary>
+
+An interactive Streamlit application for exploring Gulf Stream Warm Core Ring behavior using data-driven and AI-assisted workflows.
+
+- Launch app: [AI-powered Gulf Stream WCR Explorer](https://wcr-ai.streamlit.app/)
+- Focus: visualization and exploration of Warm Core Ring variability
+
+</details>

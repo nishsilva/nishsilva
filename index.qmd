@@ -1,7 +1,7 @@
 ---
 title: "Nish Etige"
 subtitle: "Nishchitha Sandeepana Silva Etige (he/him)"
-image: headshot2.jpg
+image: assets/images/headshot2.jpg
 about: 
   template: trestles
   image-shape: rounded
@@ -28,15 +28,21 @@ about:
 
 # **Hello there, Welcome!**
 
-I am an Ocean--Climate Scientist + a Geospatial & Spatiotemporal Data Scientist specialized in developing datasets, analyzing large-scale ocean-atmosphere interactions, and building statistical and machine learning models on large spatiotemporal geophysical datasets.
+I am a Climate Data Scientist specialized in developing data pipelines, analyzing large-scale ocean-atmosphere interactions, and building statistical and machine learning models on large spatiotemporal geophysical datasets.
 
-Extensively experienced in using numerical climate models, reanalysis, and remote sensing products to quantify the impacts of extreme weather and climate variability on physical and human systems.\
+I have academic and insutry experience in utiilizing numerical climate models, reanalysis, and remote sensing products to quantify the impacts of extreme weather and climate variability on physical and human systems.
+
+Currently, I am exploring the potential of using AI and LLMs to improve the geospatial data exploration and analytical approcahes.\
 
 ### **Recent Highlights**
 
--   Check out our latest [**Machine Learning Review Paper**](https://doi.org/10.1007/s44295-025-00076-1)**.**
+**I'm currently open to exciting opportunities in climate and data science, AI applications, and geospatial data solutions.**
 
--   Check out our [**newly published article**](https://doi.org/10.1126/sciadv.adw3661) in ***Science Advances** on* low-frequency sea-level modes.
+-   Dive into my [**AI-powered Gulf Stream WCR Explorer**](https://wcr-ai.streamlit.app/)**.**
+
+-   Uncover insights from our latest [**Machine Learning Review Paper**](https://doi.org/10.1007/s44295-025-00076-1)**.**
+
+-   Our [**Science Advances**](https://doi.org/10.1126/sciadv.adw3661) article on low-frequency sea-level modes.
 
 ------------------------------------------------------------------------
 

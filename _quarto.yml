@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - assets/**
 
 website:
   title: "Nish Etige"
@@ -10,14 +12,12 @@ website:
         text: Home
       - href: abt.qmd
         text: About Me
-      - href: experience.qmd
-        text: Research
-      - href: pubs.qmd
-        text: Publications
-      - href: CV.qmd
-        text: CV
+      - href: portfolio.qmd
+        text: Portfolio
       - href: resume.qmd
         text: Resume
+      - href: CV.qmd
+        text: Academic CV
       - href: highlights.qmd
         text: Past Highlights
         

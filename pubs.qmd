@@ -2,7 +2,12 @@
 editor: visual
 ---
 
-## Journal Articles
+<details>
+<summary>Journal Articles</summary>
+
+-   Little, C. M., et al. 2025. **Pan-Pacific low-frequency modes of sea level and climate variability.** *Science Advances*, 11, eadw3661. <https://doi.org/10.1126/sciadv.adw3661>
+
+-   Welandawe, S., Priyadarshana, Y. H. P. P., Senanayake, N., et al. 2025. **Machine learning techniques for marine heatwave prediction: a comprehensive review.** *Intell Mar Technol Syst*, 3, 28. <https://doi.org/10.1007/s44295-025-00076-1>
 
 -   **Silva, E.N.S.**, Anderson, B.T. 2024 **Influence of Kuroshio Extension's sea surface temperature variability on the North Pacific atmosphere and Pacific Decadal Precession.** *Clim Dyn* 62, 8947--8960. <https://doi.org/10.1007/s00382-024-07372-2>
 
@@ -24,15 +29,24 @@ editor: visual
 
 -   Silva E.I.L., Rott E., Thumpela I., Athukorala N., **Silva E.N.S**. 2013. **Species composition and relative dominance of reservoir phytoplankton in sri lanka: Indicators of environmental quality**. I*nternational Journal of Biological Science and Engineering,* 4(4):92-102.
 
-## Books
+</details>
+
+<details>
+<summary>Books</summary>
 
 -   Silva E.I.L. and **Silva E.N.S.** 2016. **Handbook on small hydropower development and environment: A case study on Sri Lanka**. 1st ed. Colombo, Sri Lanka: Water Resources Science and Technology.
 
-## Reports
+</details>
+
+<details>
+<summary>Reports</summary>
 
 -   Sood A., Muthuwatta L., **Silva N.S.**, McCartney M. 2017. **Understanding the hydrological impacts of climate change in the Tana river basin, Kenya**. Colombo Sri Lanka: International Water Management Institute (IWMI). Report IWMI Working Paper 178. 40 p.
 
-## Conference Proceedings
+</details>
+
+<details>
+<summary>Conference Proceedings</summary>
 
 -   Abeywickrama, T., **Etige, N. S.**, Randombage, A. G., Abeygunawardana, A. P., & Gunathilaka, I. T., 2024, February. **Influence of Indian Ocean Dipole on Coastal Primary Production in Sri Lanka: A 25-Year Analysis** in Ocean Sciences Meeting 2024. AGU.
 
@@ -59,3 +73,5 @@ editor: visual
 -   Silva E.I.L., Jayawardhana R.A.S.N., **Silva E.N.S.** and Liyanage N.P.P. 2016. **The effects of escalating small hydropower development on hill stream fish fauna endemic to Sri Lanka**. Asia 2016 - International conference on water resources and hydropower development in Asia; 03/01/2016-03/03/206; Vientiane, Laos.
 
 -   Silva E.I.L., Jayawardhana R.A.S.N., Liyanage N.P.P. and **Silva E.N.S**. 2015. **Effects of construction and operation of mini hydropower plants on fish fauna endemic to Sri Lanka - A case study on Kelani river basin**. Symposium proceedings of the water professionals' day - Water resources research in Sri Lanka; 10/01/2015; Post Graduate Institute of Agriculture, University of Peradeniya. Sri Lanka: Geo-Informatics Society of Sri Lanka. 45-55 p.
+
+</details>

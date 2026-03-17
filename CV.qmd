@@ -46,10 +46,10 @@ editor: visual
 <body>
     <div class="pdf-container">
         <!-- Download Button -->
-        <!--<a href="Nish_102725_CV.pdf" download class="download-link">Download PDF</a> -->
+        <!--<a href="assets/pdfs/Nish_022526_CV.pdf" download class="download-link">Download PDF</a> -->
         
         <!-- PDF Viewer -->
-        <embed src="Nish_102725_CV.pdf" class="pdf-embed">
+        <embed src="assets/pdfs/Nish_022526_CV.pdf" class="pdf-embed">
     </div>
 </body>
 </html>

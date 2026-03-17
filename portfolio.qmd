@@ -1,0 +1,42 @@
+::: {.portfolio-hero}
+## Portfolio
+A single hub for my climate-ocean research, publication record, and AI-focused products.
+:::
+
+::: {.portfolio-metrics}
+::: {.portfolio-metric}
+**Research Programs**  
+From Kuroshio teleconnections to sea-level process diagnostics.
+:::
+
+::: {.portfolio-metric}
+**Publications**  
+Peer-reviewed papers, reports, books, and conference proceedings.
+:::
+
+::: {.portfolio-metric}
+**AI Solutions**  
+Interactive tools for ocean-climate data exploration.
+:::
+:::
+
+<details class="portfolio-section" open>
+<summary><strong>Research</strong></summary>
+
+{{< include experience.qmd >}}
+
+</details>
+
+<details class="portfolio-section">
+<summary><strong>Publications</strong></summary>
+
+{{< include pubs.qmd >}}
+
+</details>
+
+<details class="portfolio-section">
+<summary><strong>AI Solutions</strong></summary>
+
+{{< include ai-solutions.qmd >}}
+
+</details>
