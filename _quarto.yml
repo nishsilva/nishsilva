@@ -14,10 +14,6 @@ website:
         text: About Me
       - href: portfolio.qmd
         text: Portfolio
-      - href: resume.qmd
-        text: Resume
-      - href: CV.qmd
-        text: Academic CV
       - href: highlights.qmd
         text: Past Highlights
         
