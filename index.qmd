@@ -30,7 +30,7 @@ about:
 
 I am a Climate Data Scientist specialized in developing data pipelines, analyzing large-scale ocean-atmosphere interactions, and building statistical and machine learning models on large spatiotemporal geophysical datasets.
 
-I have academic and industry experience in utiilizing numerical climate models, reanalysis, and remote sensing products to quantify the impacts of extreme weather and climate variability on physical and human systems.
+I have expereince in industry and academia  where I utiilized numerical climate models, reanalysis, and remote sensing products to quantify the impacts of extreme weather and climate variability on physical and human systems.
 
 Currently, I am exploring the potential of using AI and LLMs to improve the geospatial data exploration and analytical approcahes.\
 
