@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Nish Etige",
-    "section": "",
-    "text": "A single hub for my climate-ocean research, publication record, and AI-focused products."
-  },
-  {
-    "objectID": "portfolio.html#portfolio",
-    "href": "portfolio.html#portfolio",
-    "title": "Nish Etige",
-    "section": "",
-    "text": "A single hub for my climate-ocean research, publication record, and AI-focused products."
-  },
-  {
     "objectID": "highlights.html",
     "href": "highlights.html",
     "title": "Nish Etige",
@@ -46,14 +32,14 @@
     "href": "abt.html",
     "title": "Nish Etige",
     "section": "",
-    "text": "Who am I?\n\n\n\nMy story starts in Sri Lanka, a small island nation in the Indian Ocean. Born and lived in this small island for more than two decades, I studied aquatic science initially. While studying aquatic science in college, I wanted to study the ocean and know more about climate change.\nAfter working for couple of years in two organizations (International Water Management Institute & International Union for Conservation of Nature) in Sri Lanka I ended up pursuing a Master’s degree in the United States at School for Marine Science of UMass Dartmouth in Professor Avijit Gangopadhyay’s Lab. There I studied the seasonality, variability, and survival of Gulf Stream’s Warm Core Rings.\nAfter completing my MS, I joined the Department of Earth & Environment of Boston University to pursue a Ph.D. under the advisement of Professor Bruce Anderson. For my doctoral dissertation I investigated large-scale interactions between the Kuroshio Current and atmosphere. In the last few months of my Ph.D. I was offered a Senior Research Associate position in the AER Inc’s Oceanography Group (Now JANUS Research Group) where I worked for more than two-years. Currently, I am looking for opportunities in intersections of climate and data science. Apart from that I enjoy taking strolls through this beautiful city taking pictures and also hiking in New Hampshire time to time. And enjoy taking road trips exploring the continental United States."
+    "text": "My Story\n\n\n\nMy story starts in Sri Lanka, a small island nation in the Indian Ocean. Born and lived in this small island for more than two decades, I studied aquatic science initially. While studying aquatic science in college, I wanted to study the ocean and know more about climate change.\nAfter working for couple of years in two organizations (International Water Management Institute & International Union for Conservation of Nature) in Sri Lanka I ended up pursuing a Master’s degree in the United States at School for Marine Science of UMass Dartmouth in Professor Avijit Gangopadhyay’s Lab. There I studied the seasonality, variability, and survival of Gulf Stream’s Warm Core Rings.\nAfter completing my MS, I joined the Department of Earth & Environment of Boston University to pursue a Ph.D. under the advisement of Professor Bruce Anderson. For my doctoral dissertation I investigated large-scale interactions between the Kuroshio Current and atmosphere. In the last few months of my Ph.D. I was offered a Senior Research Associate position in the AER Inc’s Oceanography Group (Now JANUS Research Group) where I worked for more than two-years. Currently, I am looking for opportunities in intersections of climate and data science. Apart from that I enjoy taking strolls through this beautiful city taking pictures and also hiking in New Hampshire time to time. And enjoy taking road trips exploring the continental United States."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Nish Etige",
     "section": "",
-    "text": "Hello there, Welcome!\nI am a Climate Data Scientist specialized in developing data pipelines, analyzing large-scale ocean-atmosphere interactions, and building statistical and machine learning models on large spatiotemporal geophysical datasets.\nI have expereince in industry and academia where I utiilized numerical climate models, reanalysis, and remote sensing products to quantify the impacts of extreme weather and climate variability on physical and human systems.\nCurrently, I am exploring the potential of using AI and LLMs to improve the geospatial data exploration and analytical approcahes.\n\n\nRecent Highlights\nI’m currently open to exciting opportunities in climate and data science, AI applications, and geospatial data solutions.\n\nDive into my AI-powered Gulf Stream WCR Explorer.\nUncover insights from our latest Machine Learning Review Paper.\nOur Science Advances article on low-frequency sea-level modes.\n\n\n\n\nEducation\nPhD in Earth & Environment (2024)\nBoston University Graduate School of Arts & Sciences\nMS in Marine Science & Technology (2019)\nUniversity of Massachusetts Dartmouth’s School for Marine Science & Technology | New Bedford, MA\nBS in Aquatic Resources Technology (2015)\nUva Wellassa University | Sri Lanka"
+    "text": "Hello there, Welcome!\n\nI am a Data Scientist specialized in developing data pipelines, analyzing complex and large datasets, and building statistical and machine learning models.\nOver the past 8 years in academia and in the industry I have utilized numerical climate models, reanalysis, and remote sensing products to quantify the impacts of extreme weather and climate variability on physical and human systems.\nCurrently, I am building geospatial data exploration tools powered by AI/LLMs.\n\n\nRecent Highlights\n\n\n\n\n\n\nTip\n\n\n\nOpen to Work — Actively seeking roles in climate data science, AI applications, and geospatial solutions.\n\n\n\n\nAI Tool\nAI-powered Gulf Stream WCR Explorer — Interactive ocean feature detection tool.\n\n\nPublication\nMachine Learning Review Paper — A survey of ML in ocean-climate science.\n\n\nResearch\nScience Advances — Low-frequency sea-level variability modes.\n\n\n\n\n\nEducation\n\n\nPhD in Earth & Environment · 2024\nBoston University Graduate School of Arts & Sciences\n\n\nMS in Marine Science & Technology · 2019\nUniversity of Massachusetts Dartmouth’s School for Marine Science & Technology | New Bedford, MA\n\n\nBS in Aquatic Resources Technology · 2015\nUva Wellassa University | Sri Lanka"
   },
   {
     "objectID": "pubs.html",

@@ -3829,6 +3829,113 @@ vertical-align: -.125em;
 
 
 <style type="text/css">
+
+.home-hero {
+border-left: 5px solid #1f7a8c;
+padding: 0.4rem 0.9rem;
+background: linear-gradient(90deg, #f0f8fb 0%, #ffffff 100%);
+border-radius: 0 10px 10px 0;
+margin-bottom: 1rem;
+}
+.home-hero h1 {
+margin: 0;
+font-size: 1.6rem;
+color: #0b3c5d;
+}
+
+.highlight-cards {
+display: grid;
+grid-template-columns: repeat(3, minmax(0, 1fr));
+gap: 0.85rem;
+margin: 1rem 0 1.2rem;
+}
+.highlight-card {
+padding: 0.9rem 1rem;
+border-radius: 12px;
+border: 1px solid #d0e8f0;
+background: #f7fbfd;
+transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.highlight-card:hover {
+transform: translateY(-3px);
+box-shadow: 0 6px 18px rgba(11, 60, 93, 0.12);
+}
+.highlight-card strong {
+display: block;
+margin-bottom: 0.3rem;
+color: #0b3c5d;
+font-size: 0.8rem;
+text-transform: uppercase;
+letter-spacing: 0.04em;
+}
+@media (max-width: 700px) {
+.highlight-cards {
+grid-template-columns: 1fr;
+}
+}
+
+#edu-to-sidebar {
+margin-top: 1.2rem;
+padding-top: 0.8rem;
+border-top: 1px solid #d0e8f0;
+}
+#edu-to-sidebar h3 {
+font-size: 0.95rem;
+text-transform: uppercase;
+letter-spacing: 0.05em;
+color: #0b3c5d;
+margin-bottom: 0.6rem;
+}
+#edu-to-sidebar .edu-timeline {
+border-left: 2px solid #1f7a8c;
+padding-left: 0.8rem;
+}
+#edu-to-sidebar .edu-item {
+font-size: 0.82rem;
+padding: 0.45rem 0.6rem;
+margin-bottom: 0.6rem;
+}
+#edu-to-sidebar .edu-item::before {
+width: 8px;
+height: 8px;
+left: -1.15rem;
+}
+.edu-timeline {
+border-left: 3px solid #1f7a8c;
+padding-left: 1.2rem;
+margin: 0.5rem 0 0;
+}
+.edu-item {
+position: relative;
+margin-bottom: 1.1rem;
+padding: 0.65rem 0.85rem;
+background: #f7fbfd;
+border-radius: 0 10px 10px 0;
+border: 1px solid #d6e8f0;
+}
+.edu-item::before {
+content: "";
+position: absolute;
+left: -1.55rem;
+top: 50%;
+transform: translateY(-50%);
+width: 10px;
+height: 10px;
+border-radius: 50%;
+background: #1f7a8c;
+border: 2px solid #fff;
+box-shadow: 0 0 0 2px #1f7a8c;
+}
+
+.about-link-text,
+.about-links a {
+transition: transform 0.15s ease, opacity 0.15s ease !important;
+display: inline-block;
+}
+.about-links a:hover {
+transform: translateY(-2px);
+opacity: 0.85;
+}
 .portfolio-hero {
 margin: 0 0 1.2rem;
 padding: 1.1rem 1.2rem;
@@ -3908,10 +4015,6 @@ grid-template-columns: 1fr;
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./abt.html"> 
 <span class="menu-text">About Me</span></a>
   </li>  
@@ -3931,27 +4034,18 @@ grid-template-columns: 1fr;
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#portfolio" id="toc-portfolio" class="nav-link active" data-scroll-target="#portfolio">Portfolio</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
 <section id="portfolio" class="level2 portfolio-hero">
 <h2 class="anchored" data-anchor-id="portfolio">Portfolio</h2>
-<p>A single hub for my climate-ocean research, publication record, and AI-focused products.</p>
 </section>
 <div class="portfolio-metrics">
 <div class="portfolio-metric">
@@ -3967,7 +4061,7 @@ Peer-reviewed papers, reports, books, and conference proceedings.</p>
 Interactive tools for ocean-climate data exploration.</p>
 </div>
 </div>
-<details class="portfolio-section" open>
+<details class="portfolio-section">
 <summary>
 <strong>Research</strong>
 </summary>

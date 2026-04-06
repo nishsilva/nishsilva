@@ -8,8 +8,6 @@ website:
   title: "Nish Etige"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: abt.qmd
         text: About Me
       - href: portfolio.qmd

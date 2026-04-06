@@ -1,6 +1,11 @@
+---
+title: ""
+toc: false
+page-layout: full
+---
+
 ::: {.portfolio-hero}
 ## Portfolio
-A single hub for my climate-ocean research, publication record, and AI-focused products.
 :::
 
 ::: {.portfolio-metrics}
@@ -20,7 +25,7 @@ Interactive tools for ocean-climate data exploration.
 :::
 :::
 
-<details class="portfolio-section" open>
+<details class="portfolio-section">
 <summary><strong>Research</strong></summary>
 
 {{< include experience.qmd >}}

@@ -1,23 +1,20 @@
 ---
 title: "Nish Etige"
-subtitle: "Nishchitha Sandeepana Silva Etige (he/him)"
+# subtitle: "Nishchitha Sandeepana Silva Etige (he/him)"
+toc: false
+page-layout: full
 image: assets/images/headshot2.jpg
 about: 
   template: trestles
   image-shape: rounded
   image-width: 15em
   links:
-    - text: ResearchGate
-      href: https://www.researchgate.net/profile/Etige-Nishchitha-Sandeepana-Silva-2
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/nishchitha-etige-22713425/
     - icon: google
       text: Scholar
       href: https://scholar.google.com/citations?user=0IW8468AAAAJ&hl=en
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/nishetige
     - icon: github
       text: GitHub
       href: https://github.com/nishsilva
@@ -26,36 +23,71 @@ about:
       href: mailto:nishetige@gmail.com
 ---
 
-# **Hello there, Welcome!**
+::: {.home-hero}
+# Hello there, Welcome!
+:::
 
-I am a Climate Data Scientist specialized in developing data pipelines, analyzing large-scale ocean-atmosphere interactions, and building statistical and machine learning models on large spatiotemporal geophysical datasets.
+I am a Data Scientist specialized in developing data pipelines, analyzing complex and large datasets, and building statistical and machine learning models.
 
-I have expereince in industry and academia  where I utiilized numerical climate models, reanalysis, and remote sensing products to quantify the impacts of extreme weather and climate variability on physical and human systems.
+Over the past 8 years in academia and in the industry I have utilized numerical climate models, reanalysis, and remote sensing products to quantify the impacts of extreme weather and climate variability on physical and human systems.
 
-Currently, I am exploring the potential of using AI and LLMs to improve the geospatial data exploration and analytical approcahes.\
+Currently, I am building geospatial data exploration tools powered by AI/LLMs.
 
-### **Recent Highlights**
+---
 
-**I'm currently open to exciting opportunities in climate and data science, AI applications, and geospatial data solutions.**
+### Recent Highlights
 
--   Dive into my [**AI-powered Gulf Stream WCR Explorer**](https://wcr-ai.streamlit.app/)**.**
+::: {.callout-tip icon=false}
+**Open to Work** — Actively seeking roles in climate data science, AI applications, and geospatial solutions.
+:::
 
--   Uncover insights from our latest [**Machine Learning Review Paper**](https://doi.org/10.1007/s44295-025-00076-1)**.**
+::: {.highlight-cards}
+::: {.highlight-card}
+**AI Tool**
 
--   Our [**Science Advances**](https://doi.org/10.1126/sciadv.adw3661) article on low-frequency sea-level modes.
+[AI-powered Gulf Stream WCR Explorer](https://wcr-ai.streamlit.app/) — Interactive ocean feature detection tool.
+:::
+::: {.highlight-card}
+**Publication**
 
-------------------------------------------------------------------------
+[Machine Learning Review Paper](https://doi.org/10.1007/s44295-025-00076-1) — A survey of ML in ocean-climate science.
+:::
+::: {.highlight-card}
+**Research**
 
+[Science Advances](https://doi.org/10.1126/sciadv.adw3661) — Low-frequency sea-level variability modes.
+:::
+:::
+
+::: {#edu-to-sidebar}
 ### Education
 
-**PhD in Earth & Environment** (2024)
+::: {.edu-timeline}
+::: {.edu-item}
+**PhD in Earth & Environment** · 2024
 
 Boston University Graduate School of Arts & Sciences
+:::
+::: {.edu-item}
+**MS in Marine Science & Technology** · 2019
 
-**MS in Marine Science & Technology** (2019)
+University of Massachusetts Dartmouth's School for Marine Science & Technology | New Bedford, MA
+:::
+::: {.edu-item}
+**BS in Aquatic Resources Technology** · 2015
 
-University of Massachusetts Dartmouth's School for Marine Science & Technology \| New Bedford, MA
+Uva Wellassa University | Sri Lanka
+:::
+:::
+:::
 
-**BS in Aquatic Resources Technology** (2015)
-
-Uva Wellassa University \| Sri Lanka
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var sidebar = document.getElementById('about-sidebar');
+  var block = document.getElementById('edu-to-sidebar');
+  if (sidebar && block) {
+    sidebar.appendChild(block);
+    block.style.display = 'block';
+  }
+});
+</script>
